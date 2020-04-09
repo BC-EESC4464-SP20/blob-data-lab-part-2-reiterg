@@ -31,7 +31,7 @@ end
 %(the code I wrote later will only work if you name these indices "indlon"
 %and "indlat")
 % --> 
-% -->
+% -->beebopp
 
 %Determine the depth index within woa.depth that matches the depth of the
 %temperature sensor on the OOI flanking mooring B (the code I wrote later
